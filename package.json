@@ -1,0 +1,29 @@
+{
+  "name": "scrapestuff",
+  "version": "1.0.0",
+  "description": "scrape stuff for sophie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvald8/scrapestuff.git"
+  },
+  "keywords": [
+    "scrape",
+    "stuff",
+    "for",
+    "sophie"
+  ],
+  "author": "Jon Ringvald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvald8/scrapestuff/issues"
+  },
+  "homepage": "https://github.com/jvald8/scrapestuff",
+  "dependencies": {
+    "phantomjs": "^2.1.7",
+    "webserver": "^1.1.2"
+  }
+}

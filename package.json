@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/jvald8/scrapestuff",
   "dependencies": {
+    "dotenv": "^2.0.0",
     "phantomjs": "^2.1.7",
     "webserver": "^1.1.2"
   }
